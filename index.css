@@ -1,0 +1,71 @@
+body {
+    color: white;
+    background-color: rgb(30, 31, 30);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#click{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    padding: 16px;
+}
+
+.cima{
+    color: rgb(46, 165, 42);
+    text-decoration: none;
+}
+
+img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid green;
+}
+
+.center{
+    text-align: center;
+}
+
+h1{
+    color: green;
+}
+
+h2{
+    color: aliceblue;
+}
+
+nav a:hover {
+    color: green;
+}
+
+
+p{
+    color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    
+}
+
+
+h3{
+    color: aliceblue;
+}
+
+
+#preco{
+    background-color: black;
+    color: darkgreen;
+}
+
+
+.informacoes{
+    background-color: black;
+    color: darkgreen;
+}
+ 
+
+
+.games{
+    color:aqua;
+}
